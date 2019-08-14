@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Currículo Eduardo ferreira">
+        <title>Eduardo Ferreira de Oliveira</title>
+    </head>
+      <style>
+          h2{color:green}
+      </style>
+    <body>
+        
+        <h1>Eduardo Ferreira de Oliveira</h1>
+            <h2>DADOS</h2>
+            <p>Estado Civil: Solteiro, 24 anos.<br>
+            Rua do Cambuí, 66, Periperi – Salvador – BA<br>
+            Telefone: (71) 98526-4711; (71) 993498972;(71) 3407-4483.<br>
+            E-mail:eduardo.fdo@outlook.com</p>
+
+            <h2>OBJETIVO</h2>
+            <p>
+            •	Ajudar a empresa a alcançar os objetivos desejados, desempenhado com dinamismo e excelência a função proposta pela mesma.</p>
+            
+            <h2>VISÃO</h2>
+            <p> •	Profissional Industrial, direcionado para o    atendimento ao cliente e comprometido com a elaboração de melhores atividades prezando por soluções de menor custo e simplicidade.</p>
+
+            <h2>FORMAÇÃO ACADÊMICA</h2>
+            <p>      <strong>Ensino Médio Completo</strong> (2010)</p>
+            <p>•	<b>Bacharelado em Engenharia Elétrica</b> - noturno – (cursando- Área 1)</p>
+            <p>•	<strong>Técnico em Mecatrônica industrial</strong> – SENAI CIMATEC&trade; (2012 -2013)</p>
+            <p>•	<b>Curso técnico/profissionalizante em Informática</b> - CEDASPY (2009-2011)</p>
+            <p> Habilitação profissional em automação dos processos de manufatura, integrando as tecnologias eletrônica, mecânica, de controle automático e computação, por meio do desenvolvimento de atividades de planejamento, instalação, operação, manutenção, visando à qualidade e produtividade desses processos.</p>
+
+            <h2 style="color:red"> EXPERIÊNCIA PROFISSIONAL</h2>
+            <p>   •	Atento S/A (Operador de telemarketing)<br>
+                Período: 25/04/2013 – 04/03/2015</p>
+           <p> •	Monte Tabor (Hospital São Rafael)
+            	Período: 01/12/2015 - atual<br>
+            <h2>INFORMAÇÕES ADICIONAIS</h2>
+            <p>
+            •	Pensador estratégico voltado para ação, considerando o ambiente global e foco na satisfação do Cliente. Visando um ambiente dinâmico tomo atitudes com base no pensamento inovador, pleno envolvimento e participação através do trabalho em equipe. 
+            </p>
+        <dl>
+            <dt>Musica</dt>
+            <dd><a href="https://www.youtube.com/watch?v=Yyzu2yfdZtY&list=RDYyzu2yfdZtY&start_radio=1"
+                   target="_blank">
+                Projota - O mhomem que não tinha nada
+                
+            </a></dd>
+        </dl>
+            <a href="f1.jpg" target="_blank">foto 1</a>
+            <a href="f2.jpg" target="_blank">foto2</a> 
+            <a href="head.html" target="_blank">pag2</a>
+        </body>
+</html> 
